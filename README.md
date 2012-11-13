@@ -2,7 +2,8 @@
 
 This is the *README* for PEAP, an upcoming app for Raspberry Pi...
 
-Code looks like this is markdown...
+Code looks like this in markdown...
+
     DEFINE DATA
     LOCAL
     *
@@ -14,6 +15,6 @@ Code looks like this is markdown...
     *
     END
 
-> And this is a blockquote. For more Markdown info...[link wiki!](http://en.wikipedia.org/wiki/Markdown)
+> And this is a blockquote. For more Markdown info...[wiki!](http://en.wikipedia.org/wiki/Markdown)
 
 
